@@ -1,7 +1,7 @@
 Thank you for checking out my modpack!
 
 Installation:
-Simply drag all of the files (except for README.txt and Final Kill Screen Preview.png) into the root of your SD card, and you should be ready to go!
+Simply drag all of the files (except for README.md and Final Kill Screen Preview.png) into the root of your SD card, and you should be ready to go!
 
 Notes:
 
@@ -12,7 +12,6 @@ All the changes found in the Scarlet Smash Modpack can be found here:
 The Scarlet Smash Modpack Optionals includes:
  - text edits throughout menus, Star Fox's final smash subtitles, and Hero's spell list, for the fun of it =)
  - "THE WHEEL OF FATE IS TURNING" from BlazBlue Centralfiction, when the announcer says "READY" in a battle arena
- - an old FGC meme as a (WIP) cheer for every character
  - a yellow and green kill-screen background when you deal a finishing blow, you can preview it with "Final Kill Screen Preview.png"
 
 If you do not wish to use any of these, feel free to delete "The Scarlet Smash Modpack Optionals" from SD:\ultimate\mods\.
