@@ -19,5 +19,4 @@ If you wish to keep only some of these, the files are as follows:
 
  - Text edits: SD:\ultimate\mods\The Scarlet Smash Ultimate Modpack Optionals\ui\message\msg_melee.msbt and msg_menu.msbt
  - "THE WHEEL OF FATE IS TURNING": SD:\ultimate\mods\The Scarlet Smash Ultimate Modpack Optionals\sound\bank\narration\vc_narration_menu.nus3audio
- - the old FGC meme cheer: SD:\ultimate\mods\The Scarlet Smash Ultimate Modpack Optionals\sound\bank\fighter_voice\everything in here
  - the final kill screen: SD:\ultimate\mods\The Scarlet Smash Ultimate Modpack Optionals\effect\system\common\ef_common.eff
