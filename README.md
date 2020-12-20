@@ -2,6 +2,7 @@ Thank you for checking out my modpack!
 
 Installation:
 Simply drag all of the files (except for README.md and Final Kill Screen Preview.png) into the root of your SD card, and you should be ready to go!
+You also need to install ARCropolis, which you can find here: https://github.com/Raytwo/ARCropolis
 
 Notes:
 
