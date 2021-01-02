@@ -35,8 +35,8 @@ If you wish to keep only some of these, the files are as follows:
  - Text edits: SD:\ultimate\mods\The WuBoy Ultimate Modpack Optionals\ui\message\msg_melee.msbt and msg_menu.msbt
  - "THE WHEEL OF FATE IS TURNING": SD:\ultimate\mods\The WuBoy Ultimate Modpack Optionals\sound\bank\narration\vc_narration_menu.nus3audio
  - the final kill screen: SD:\ultimate\mods\The WuBoy Ultimate Modpack Optionals\effect\system\common\ef_common.eff
- --- Special note for the kill screen: If it does not show up for you, please delete the ef_common.eff file in
- --- SD:\ultimate\mods\The WuBoy Ultimate Modpack\effect\system\common\, as they have a tendency to overwrite each other.
+ -Special note for the kill screen: If it does not show up for you, please delete the ef_common.eff file in
+ -SD:\ultimate\mods\The WuBoy Ultimate Modpack\effect\system\common\, as they have a tendency to overwrite each other.
 
 Special Thanks:
  - @borboracci for helping make music extensions
