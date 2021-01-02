@@ -35,3 +35,4 @@ ISSUES/BUGS:
 
  - Steve's custom Final Smash video has a gap in the audio, due to how his sound effects work.
  - Certain skins may still have issues with their textures, as I have not added their skin fixes yet.
+ - I don't have announcer calls ready for every character yet, so some characters may have mis-matched announcer calls. This will be fixed in due time.
