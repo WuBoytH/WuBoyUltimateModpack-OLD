@@ -1,4 +1,7 @@
-Thank you for checking out The WuBoy Ultimate Modpack!
+Thank you for checking out The WuBoy Ultimate Modpack 0.9.6!
+
+IMPORTANT NOTE: This version of the modpack is ONLY COMPATIBLE WITH ARCROPOLIS 0.9.6.
+ALL FUTURE VERSIONS OF ARCROPOLIS DO NOT SUPPORT FAKE ONE-SLOT MODS, SO DO NOT RUN THIS MODPACK ON ANY VERSION PAST 0.9.6!
 
 Installation:
 Simply drag all of the files (except for README.md and Final Kill Screen Preview.png) into the root of your SD card, and you should be ready to go!
@@ -8,7 +11,7 @@ If you have a previous version of the modpack installed, please delete the follo
  - SD:\ultimate\mods\The WuBoy Ultimate Modpack
  - SD:\ultimate\mods\The WuBoy Ultimate Modpack Music
  - SD:\ultimate\mods\The WuBoy Ultimate Modpack Optionals
-You also need to install ARCropolis, which you can find here: https://github.com/Raytwo/ARCropolis
+You also need to install ARCropolis, which you can find here: https://github.com/Raytwo/ARCropolis/releases/tag/v0.9.6
 
 Notes:
 
